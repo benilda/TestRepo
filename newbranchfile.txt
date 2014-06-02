@@ -1,0 +1,2 @@
+this content for a new barch created file 
+called branch2
