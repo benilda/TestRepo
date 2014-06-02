@@ -1,2 +1,3 @@
 new mytag master file
 some more contents added
+some more contents added for new squash commit
