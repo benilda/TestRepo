@@ -1,1 +1,1 @@
-branch file content
+branch file content new text has been written
