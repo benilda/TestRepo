@@ -1,3 +1,4 @@
 this content for a new barch created file 
 called branch2
 updated some commits for squash command
+more commits
